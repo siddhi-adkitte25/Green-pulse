@@ -80,19 +80,6 @@ GreenPulseIndia
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-(Add screenshot here)
-
-### Admin Dashboard
-(Add screenshot here)
-
-### Event Management
-(Add screenshot here)
-
----
-
 ## ⚙️ Installation
 
 ### Clone Repository
